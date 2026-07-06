@@ -1,18 +1,26 @@
 {
-  "name": "baileys",
+  "name": "@smilemodds/baileys",
   "type": "module",
-  "version": "7.0.0-rc13",
-  "description": "A WebSockets library for interacting with WhatsApp Web",
+  "version": "7.0.0",
+  "description": "Advanced WhatsApp Web API - A WebSockets library for interacting with WhatsApp Web",
   "keywords": [
     "whatsapp",
-    "automation"
+    "whatsapp-api",
+    "whatsapp-web",
+    "automation",
+    "baileys",
+    "nexora"
   ],
-  "homepage": "https://github.com/WhiskeySockets/Baileys/",
+  "homepage": "https://github.com/Smilemodds/Baileys-new",
   "repository": {
-    "url": "git@github.com:WhiskeySockets/Baileys.git"
+    "type": "git",
+    "url": "git@github.com:Smilemodds/Baileys-new.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Smilemodds/Baileys-new/issues"
   },
   "license": "MIT",
-  "author": "Rajeh Taher",
+  "author": "Smilemodds",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
